@@ -12,7 +12,7 @@ Você pode visualizar a calculadora clicando [aqui](https://getkcal-lucasfrazao.
 O layout foi criado pelo Mateus Silva e pode ser visualizado nesse [repositório](https://github.com/maateusilva/getkcal.git).
 
 ## 🎯 Como contribuir
-Se quiser contribuir com esse projeto, seja corrigindo problemas, adicionando comentários ou melhorando a documentação, você pode seguir os passos abaixo:
+Se quiser contribuir com esse projeto informando bugs, adicionando comentários e/ou novas funcionalidades, você pode seguir os passos abaixo:
 * Baixe e instale o [NodeJS](https://nodejs.org/en/) versão LTS.
 * Faça [um fork](https://help.github.com/pt/github/getting-started-with-github/fork-a-repo) desse repositório;
 * Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
