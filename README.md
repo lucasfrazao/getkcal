@@ -32,4 +32,4 @@ Para executá-la é muito simples, basta rodar os seguintes comandos:
 ## 📝 Licença
 Este projeto está sob a licença MIT.
 
-Feito por [Lucas Frazão](https://www.linkedin.com/in/lucas-fraz%C3%A3o/) 👋🏻.
+Feito por [Lucas Frazão](https://www.linkedin.com/in/lucas-frazaao/) 👋🏻.
